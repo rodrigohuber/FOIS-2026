@@ -14,4 +14,4 @@ Live page: https://rodrigohuber.github.io/FOIS-2026/
 | `mendes-fois2026-lightning-talk.pdf`, `mendes-fois2026-slides.pdf`, `mendes-fois2026-fast-talk-10.pdf` | talk slides |
 | `mendes-sbpo2026-conceptual-problem.pdf`, `mendes-nsg-fast-talk-10.pdf` | related talks |
 
-The page used to live at `rodrigohuber.github.io/fois2026/`, which now redirects here.
+This repository is the page's only home. The landing page at https://rodrigohuber.github.io/ links here.
